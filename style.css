@@ -1,3 +1,4 @@
+#btnedit {width: min-content; height: min-content;}
 body {background: #FFFFFF;
     background: -moz-linear-gradient(izquierda, #FFFFFF 0%, #70BEDB 50%, #FFFFFF 100%);
     background: -webkit-linear-gradient(izquierda, #FFFFFF 0%, #70BEDB 50%, #FFFFFF 100%);
